@@ -157,6 +157,10 @@ jobs:
         run: |
           python ./src/generate_cidr_list.py
 
+      - name: 📦 Generate mihomo ruleset
+        run: |
+          python ./src/generate_mihomo_ruleset.py
+
       - name: 💫 Commit the changes
         run: |
           git config --global user.name "github-actions"
