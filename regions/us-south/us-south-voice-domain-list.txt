@@ -7,7 +7,9 @@ us-south12005.discord.gg
 us-south12006.discord.gg
 us-south12007.discord.gg
 us-south12008.discord.gg
+us-south12009.discord.gg
 us-south12010.discord.gg
+us-south12011.discord.gg
 us-south12012.discord.gg
 us-south12013.discord.gg
 us-south12014.discord.gg
@@ -39,7 +41,6 @@ us-south12039.discord.gg
 us-south12040.discord.gg
 us-south12041.discord.gg
 us-south12042.discord.gg
-us-south12043.discord.gg
 us-south12044.discord.gg
 us-south12045.discord.gg
 us-south12046.discord.gg
