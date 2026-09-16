@@ -1,7 +1,23 @@
 [
     {
+        "hostname": "santiago11000.discord.gg",
+        "ip": "34.0.61.63"
+    },
+    {
         "hostname": "santiago11001.discord.gg",
         "ip": "34.0.59.206"
+    },
+    {
+        "hostname": "santiago11002.discord.gg",
+        "ip": "34.0.52.38"
+    },
+    {
+        "hostname": "santiago11003.discord.gg",
+        "ip": "34.0.51.220"
+    },
+    {
+        "hostname": "santiago11004.discord.gg",
+        "ip": "34.0.60.99"
     },
     {
         "hostname": "santiago11005.discord.gg",
@@ -94,6 +110,10 @@
     {
         "hostname": "santiago11027.discord.gg",
         "ip": "34.0.62.143"
+    },
+    {
+        "hostname": "santiago11028.discord.gg",
+        "ip": "34.0.52.157"
     },
     {
         "hostname": "santiago11029.discord.gg",
