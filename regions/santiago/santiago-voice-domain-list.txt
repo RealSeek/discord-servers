@@ -19,6 +19,9 @@ santiago11017.discord.gg
 santiago11018.discord.gg
 santiago11019.discord.gg
 santiago11020.discord.gg
+santiago11021.discord.gg
+santiago11022.discord.gg
+santiago11023.discord.gg
 santiago11024.discord.gg
 santiago11025.discord.gg
 santiago11026.discord.gg
@@ -32,4 +35,5 @@ santiago11033.discord.gg
 santiago11034.discord.gg
 santiago11035.discord.gg
 santiago11036.discord.gg
+santiago11037.discord.gg
 santiago11038.discord.gg
