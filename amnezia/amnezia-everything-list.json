@@ -1,7 +1,7 @@
 [
     {
         "hostname": "canary.discord.com",
-        "ip": "162.159.128.233"
+        "ip": "162.159.136.232"
     },
     {
         "hostname": "cdn.discordapp.com",
@@ -9,11 +9,11 @@
     },
     {
         "hostname": "dis.gd",
-        "ip": "104.18.37.76"
+        "ip": "172.64.150.180"
     },
     {
         "hostname": "discord-attachments-uploads-prd.storage.googleapis.com",
-        "ip": "142.251.33.219"
+        "ip": "192.178.220.207"
     },
     {
         "hostname": "discord.co",
@@ -21,11 +21,11 @@
     },
     {
         "hostname": "discord.com",
-        "ip": "162.159.136.232"
+        "ip": "162.159.128.233"
     },
     {
         "hostname": "discord.design",
-        "ip": "104.21.80.173"
+        "ip": "172.67.152.113"
     },
     {
         "hostname": "discord.dev",
@@ -33,11 +33,11 @@
     },
     {
         "hostname": "discord.gg",
-        "ip": "162.159.136.234"
+        "ip": "162.159.130.234"
     },
     {
         "hostname": "discord.gift",
-        "ip": "172.67.222.182"
+        "ip": "104.21.25.51"
     },
     {
         "hostname": "discord.gifts",
@@ -45,11 +45,11 @@
     },
     {
         "hostname": "discord.media",
-        "ip": "162.159.138.234"
+        "ip": "162.159.129.235"
     },
     {
         "hostname": "discord.new",
-        "ip": "172.67.191.5"
+        "ip": "104.21.89.187"
     },
     {
         "hostname": "discord.store",
@@ -61,7 +61,7 @@
     },
     {
         "hostname": "discordapp.com",
-        "ip": "162.159.135.233"
+        "ip": "162.159.129.233"
     },
     {
         "hostname": "discordcdn.com",
@@ -81,7 +81,7 @@
     },
     {
         "hostname": "discordstatus.com",
-        "ip": "3.165.160.31"
+        "ip": "18.238.152.16"
     },
     {
         "hostname": "finland14000.discord.gg",
@@ -677,7 +677,7 @@
     },
     {
         "hostname": "images-ext-1.discordapp.net",
-        "ip": "162.159.134.232"
+        "ip": "162.159.129.232"
     },
     {
         "hostname": "images-ext-2.discordapp.net",
@@ -685,11 +685,11 @@
     },
     {
         "hostname": "media.discordapp.net",
-        "ip": "162.159.134.232"
+        "ip": "162.159.128.232"
     },
     {
         "hostname": "ptb.discord.com",
-        "ip": "162.159.135.232"
+        "ip": "162.159.136.232"
     },
     {
         "hostname": "santiago11000.discord.gg",
@@ -1518,14 +1518,6 @@
     {
         "hostname": "stage-scale10024.discord.gg",
         "ip": "35.215.83.0"
-    },
-    {
-        "hostname": "stage-scale10025.discord.gg",
-        "ip": "35.215.66.109"
-    },
-    {
-        "hostname": "stage-scale10026.discord.gg",
-        "ip": "35.215.126.35"
     },
     {
         "hostname": "stage-scale10027.discord.gg",
